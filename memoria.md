@@ -27,12 +27,21 @@ Estos consejos están pensados para ayudarte en la redacción de tu monografía,
 - Necesariamente se debe incorporar una sección de *bibliografía*.
   - El tribunal mirará con buenos ojos que incluyas bibliografía de publicaciones científicas y libros de editoriales científicas, como Springer-Verlag.
   - Vigila que el formato de la bibliografía sea consistente (siempre igual) y completo (con título, autores, editorial, nombre del congreso y ciudad en caso de que sea un congreso, y año de publicación).
-  - Se puede incorporar un *anexo* o anexos, que habitualmente se utiliza para mostrar información interesante pero no crítica que además resulta demasiado larga y podría obstaculizar la lectura del núcleo del trabajo. Por ejemplo, un anexo puede contener figuras adicionales con resultados de experimentos (y que no se discuten en el cuerpo de la monografía), tablas de formato grande también con resultado de experimentos, o un desarrollo matemático accesorio pero interesante.
+- Se puede incorporar un *anexo* o anexos, que habitualmente se utiliza para mostrar información interesante pero no crítica que además resulta demasiado larga y podría obstaculizar la lectura del núcleo del trabajo. Por ejemplo, un anexo puede contener figuras adicionales con resultados de experimentos (y que no se discuten en el cuerpo de la monografía), tablas de formato grande también con resultado de experimentos, o un desarrollo matemático accesorio pero interesante.
   
 ## Redacción
-- Menos es más: si puedes eliminar una palabra sin que afecte al significado de la frase, hazlo. Por lo general tendemos a escribir textos más largos y obtusos de lo necesario, dale una vuelta y simplifica tanto como puedas.
 - Aplica la estructura de las tres Cs recursivamente a la propia redacción y microestructura del escrito, por ejemplo, una sección debería comenzar con un párrafo de introducción a la sección, varios párrafos con el contenido, y finalizar con un párrafo de conclusiones de la sección y que conduzca de forma natural a la siguiente sección. A nivel de párrafo puedes comenzar con una frase que introduzca qué idea vas a presentar en el párrafo, luego la desarrollas y terminas con otra frase que enlace con el siguiente párrafo.
+- Menos es más: si puedes eliminar una palabra sin que afecte al significado de la frase, hazlo. Por lo general tendemos a escribir textos más largos y obtusos de lo necesario, dale una vuelta y simplifica tanto como puedas.
 - Utiliza una extensión proporcional a la importancia del mensaje que transmitas. Dedica poco espacio a una idea accesoria interesante pero con poca repercusión en tu trabajo, y dedica más espacio a un concepto clave. Si el concepto es muy importante puedes dedicarle una sección o una subsección entera. O un capítulo. O una tesis doctoral.
-- Intenta que la longitud de tus párrafos sea similar.
-
+- Intenta que la longitud de tus párrafos sea similar, salvo que tengas un buen motivo para no hacerlo.
+- Introduce los acrónimos la primera vez que los uses, salvo acrónimos ampliamente conocidos y que se usan como palabras. Si tienes muchos acrónimos en la monografía, puedes considerar introducir una lista de acrónimos al principio de la monografía.
+  
+## Figuras y tablas
+- Enumera todas tus figuras y tablas y referencia usando el número.
+  - Nunca uses expresiones del tipo "como se puede ver en la figura siguiente", dí más bien "como se puede ver en la Figura 3".
+- Explica todas tus figuras y tus tablas en el texto, si no necesitas usar esa figura/tabla en tu texto, posiblemente deberías eliminarla.
+- Usa un tamaño de letra que permita su lectura (obvio, pero es asombroso lo difícil que a veces puede ser conseguir esto).
+- Por lo general, es mejor usar una figura que una tabla numérica; usa una tabla sólo si es necesario conocer el valor exacto, por ejemplo, porque sean p-valores de un test estadístico y deseas comprobar si supera significancia estadística.
+- Pon un encabezado en todas las tablas y figuras. El objetivo es que la figura o tabla sea autocontenido, el lector debería poder entender lo que expresan leyendo el encabezado aunque esta información se repita en el texto.
+  
 ## Fallos comunes
