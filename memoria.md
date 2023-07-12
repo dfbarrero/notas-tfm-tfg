@@ -1,4 +1,4 @@
-# Sugerencias para la redaccción de TFMs y TFGs
+# Sugerencias para la memoria de TFMs y TFGs
 
 ## Estructura
 - Recuerda la regla de las tres C's: Contexto, Contenido y Conclusiones, primero aporta un contexto necesario para comprender tu mensaje, luego introduce tu mensaje, y termina con las ideas principales que el lector debe quedarse. Aplícalo a todo trabajo académico (y no académico): anteproyecto, memoria, defensa o un correo electrónico a tu tutor.
