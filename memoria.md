@@ -39,6 +39,7 @@ Estos consejos están pensados para ayudarte en la redacción de tu monografía,
 - Introduce los acrónimos la primera vez que los uses, salvo acrónimos ampliamente conocidos y que se usan como palabras. Si tienes muchos acrónimos en la monografía, puedes considerar introducir una lista de acrónimos al principio de la monografía.
 - Evita usar en exceso los paréntesis. En caso de duda, es mejor no usarlos.
 - Los pié de página y el punto y coma son tus amigos.
+- Pon las palabras y expresiones en inglés en cursiva.
 
 ## Figuras y tablas
 - Enumera todas tus figuras y tablas y referencia usando el número.
