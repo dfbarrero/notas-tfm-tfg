@@ -1,4 +1,4 @@
-# Sugerencias para la memoria de TFMs y TFGs
+# Sugerencias para redacción de memorias académicas (TFGs, TFMs y tesis doctorales)
 
 Estos consejos están pensados para ayudarte en la redacción de tu monografía, algunos de estos consejos son en términos absolutos (por ejemplo, siempre hay que introducir los acrónimos en su primer uso, salvo que sea un acrónimo tan ampliamente conocido que funcione como palabra, por ejemplo, láser), pero otros muchos son generales, y en ciertas circunstancias se puede obrar de una forma distinta. Para ir sobre seguro, te aconsejo  que sigas estas sugerencias, salvo que sepas muy bien por qué no lo haces.
 
