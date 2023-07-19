@@ -6,6 +6,8 @@ Estos consejos están pensados para ayudarte en la redacción de tu monografía,
 
 Recomiendo utilizar LaTeX por las facilidades que aporta para elaborar textos académicos, y el impecable aspecto visual que aporta. Tiene una curva de aprendizaje importante, por lo que si no utilizas LaTeX, y no tienes previsión de hacer más actividad académica, tal vez sea mejor irte a soluciones más convencionales. Si quieres seguir haciendo investigación, puede ser un buen momento para meterte de lleno en LaTeX, no te arrepentirás.
 
+A continuación se dan unas sugerencias enfatizando aquellos aspectos que, por mi experiencia, generan un mayor número de problemas.
+
 ## Estructura
 - Recuerda la regla de las tres C's: Contexto, Contenido y Conclusiones. Primero aporta el contexto necesario para comprender tu mensaje, luego presenta tu mensaje y termina con las ideas principales que el lector debe quedarse. Aplícalo a todo trabajo académico (y no académico): anteproyecto, memoria, defensa o un correo electrónico a tu tutor.
 - La estructura típica de un TFM/TFG o tesis doctoral es la siguiente:
@@ -15,7 +17,7 @@ Recomiendo utilizar LaTeX por las facilidades que aporta para elaborar textos ac
   * Conclusiones y trabajo futuro.
   Fíjate que esta estructura sigue la regla de las tres Cs. Observa también que tiene siete capítulos, esto no es casual, es la máxima cantidad de elementos que un lector medio puede guardar con facilidad en su memoria de trabajo, y por lo tanto facilita la lectura.
 - Aplica esta regla recursivamente: primero a la macroestructura de la monografía, luego a cada uno de los capítulos (introduce el contenido del capítulo, desarrolla su contenido y termina con unas conclusiones que conduzcan al siguiente capítulo) e incluso a nivel de párrafo.
-- Nunca empieces con el núcleo de tu mensaje ni lo termines de forma abrupta.
+- Nunca empieces con el núcleo de tu mensaje ni lo termines de forma abrupta (ejem, no sigas el ejemplo de estas notas).
 - En general, busca un hilo conductor que aporte coherencia a la monografía. Estás relatando una historia que debería de obedecer a una lógica interna. Conduce al lector de una idea a la siguiente de forma natural.
 - El índice debería de ser un árbol balanceado: no hagas un capítulo de 25 páginas, y otro de 2, o hagas una sección con una única subsección en su interior (¡horror! ¿para qué crear una subdivisión si no hay qué subdividir?).
 
