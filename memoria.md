@@ -1,3 +1,5 @@
+# Sugerencias para la redacción de memorias académicas
+## TFGs, TFMs y tesis doctorales
 
 
 ## Generalidades
@@ -54,7 +56,11 @@ A continuación se dan unas sugerencias enfatizando aquellos aspectos que, por m
   - Nunca uses expresiones del tipo "como se puede ver en la figura siguiente", dí más bien "como se puede ver en la Figura 3".
 - Explica todas tus figuras y tus tablas en el texto; si no necesitas usar esa figura/tabla en tu texto, posiblemente deberías eliminarla o enviarla a un anexo.
 - Todas las figuras y tablas deberian aparecer cerca de la primera referencia que se haga a ellas. 
+- Referencia todas las figuras, tablas y bibliografía.
 - Usa un tamaño de letra que permita su lectura (obvio, pero en ocasiones asombrosamente difícil).
 - Por lo general, es mejor usar una figura que una tabla numérica; usa una tabla sólo si es necesario conocer el valor exacto, por ejemplo, porque sean p-valores de un test estadístico y deseas comprobar si $p<0.05$.
 - Pon un encabezado en todas las tablas y figuras. El objetivo es que la figura o tabla sea autocontenida. El lector debería poder entender lo que expresan leyendo el encabezado aunque esta información se repita en el texto.
 - Usa una cantidad de decimales adecuado a tus necesidades cuando des alguna cifra. Por ejemplo, no tiene mucho sentido dar la temperatura ambiente con diez decimales, a menos que quieras hablar sobre un sensor de temperatura de precisión extrema y comparar mediciones con diez decimales de precisión. 
+
+## Para profundizar
+- Fenton, Norman. "Improving your technical writing skills." (2003). [Enlace](https://www.eecs.qmul.ac.uk/~norman/papers/good_writing/Technical%20writing.pdf)
