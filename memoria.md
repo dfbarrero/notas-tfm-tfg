@@ -1,7 +1,10 @@
-# Sugerencias para la redacción de memorias académicas 
-## TFGs, TFMs y tesis doctorales
+
+
+## Generalidades
 
 Estos consejos están pensados para ayudarte en la redacción de tu monografía, algunos de estos consejos son en términos absolutos (por ejemplo, siempre hay que introducir los acrónimos en su primer uso, salvo que sea un acrónimo tan ampliamente conocido que funcione como palabra, por ejemplo, láser), pero otros muchos son generales, y en ciertas circunstancias se puede obrar de una forma distinta. Para ir sobre seguro, te aconsejo  que sigas estas sugerencias, salvo que sepas muy bien por qué no lo haces.
+
+Recomiendo utilizar LaTeX por las facilidades que aporta para elaborar textos académicos, y el impecable aspecto visual que aporta. Tiene una curva de aprendizaje importante, por lo que si no utilizas LaTeX, y no tienes previsión de hacer más actividad académica, tal vez sea mejor irte a soluciones más convencionales. Si quieres seguir haciendo investigación, puede ser un buen momento para meterte de lleno en LaTeX, no te arrepentirás.
 
 ## Estructura
 - Recuerda la regla de las tres C's: Contexto, Contenido y Conclusiones. Primero aporta el contexto necesario para comprender tu mensaje, luego presenta tu mensaje y termina con las ideas principales que el lector debe quedarse. Aplícalo a todo trabajo académico (y no académico): anteproyecto, memoria, defensa o un correo electrónico a tu tutor.
@@ -44,10 +47,11 @@ Estos consejos están pensados para ayudarte en la redacción de tu monografía,
 - Evita la repetición de palabras.
 - Evita la repetición de ideas, salvo que sea algo clave y se desee incidir en ello.
 
-## Figuras y tablas
-- Enumera todas tus figuras y tablas y referencia usando el número.
+## Figuras, tablas y ecuaciones
+- Enumera todas tus figuras, tablas y ecuaciones para referenciarlas después usando el número.
   - Nunca uses expresiones del tipo "como se puede ver en la figura siguiente", dí más bien "como se puede ver en la Figura 3".
 - Explica todas tus figuras y tus tablas en el texto; si no necesitas usar esa figura/tabla en tu texto, posiblemente deberías eliminarla o enviarla a un anexo.
+- Todas las figuras y tablas deberian aparecer cerca de la primera referencia que se haga a ellas. 
 - Usa un tamaño de letra que permita su lectura (obvio, pero en ocasiones asombrosamente difícil).
 - Por lo general, es mejor usar una figura que una tabla numérica; usa una tabla sólo si es necesario conocer el valor exacto, por ejemplo, porque sean p-valores de un test estadístico y deseas comprobar si $p<0.05$.
 - Pon un encabezado en todas las tablas y figuras. El objetivo es que la figura o tabla sea autocontenida. El lector debería poder entender lo que expresan leyendo el encabezado aunque esta información se repita en el texto.
