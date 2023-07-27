@@ -63,4 +63,4 @@ A continuación se dan unas sugerencias enfatizando aquellos aspectos que, por m
 - Usa una cantidad de decimales adecuado a tus necesidades cuando des alguna cifra. Por ejemplo, no tiene mucho sentido dar la temperatura ambiente con diez decimales, a menos que quieras hablar sobre un sensor de temperatura de precisión extrema y comparar mediciones con diez decimales de precisión. 
 
 ## Para profundizar
-- Fenton, Norman. "Improving your technical writing skills." (2003). [Enlace](https://www.eecs.qmul.ac.uk/~norman/papers/good_writing/Technical%20writing.pdf)
+- Fenton, Norman. "*Improving your technical writing skills.*" (2003). [[Enlace]](https://www.eecs.qmul.ac.uk/~norman/papers/good_writing/Technical%20writing.pdf)
