@@ -12,6 +12,7 @@
 - La defensa comienza con el presidente del tribunal introduciendo tanto al alumno como al trabajo que ha realizado, dando la palabra al alumno cuando termina su introducción.
 - El alumno hace la presentación y se pone a disposición del tribunal.
 - El presidente del tribunal va cediendo la palabra a los miembros del tribunal, normalmente comenzando con el vocal segundo (que suele ser el tutor del trabajo), siguiendo con el vocal primero y finalmente el mismo presidente.
+    * Típicamente el tribunal te preguntará por curiosidad o porque quiere informarse sobre algún tema que encontró interesante. 
 - Si hay público, el presidente expondrá que cualquier persona con grado en ingeniería puede preguntar al alumno. Normalmente nadie pregunta.
 - El presidente abre sesión privada para deliberar. Durante un tiempo variable el tribunal consensúa la calificación del alumno y rellena la documentación.
     * La calificación máxima es de diez (sobresaliente).
@@ -36,11 +37,13 @@
     * Indenta para reducir texto y relacionar ideas.
 - En principio, puedes usar el mismo orden de la memoria en la presentación. No obstante, a veces es conveniente seguir un orden distinto, eso tienes que evaluarlo y hacerlo sólo si sabes bien qué estás haciendo.
 - Deja claro cuál es tu objetivo y tu aportación desde el principio de la presentación.
+    * Usar toda una diapositiva para explicarlo está justificado. También se puede integrar en la introducción/motivación del trabajo o en cualquier lugar al principio de la presentación. Lo hagas como lo hagas, tiene que quedar coherente.
 - Vigila que las figuras se puedan ver fácilmente con un tamaño de letra en las etiquetas y contraste de colores adecuados.
 - Utiliza la regla de las tres Cs: Contexto, contenido y conclusiones.
     * No entres directamente con el núcleo de tu trabajo.
     * Introduce unas conclusiones y trabajo futuro. Usa el trabajo futuro para mostrar las debilidades de tu trabajo y facilitarse así la defensa. Siempre puedes decir que eso que te quedaste sin hacer es trabajo futuro, el tribunal lo entenderá.
     * Te recomiendo una diapositiva después de las conclusiones y trabajo futuro agradeciendo la atención con la que finalizar la presentación, y tener a la vista durante el turno de preguntas.
+* Recuerda: Cuenta una historia sobre el trabajo que has realizado, y como tal, sigue un hilo conductor con una lógica. No saltes de idea a idea sin orden o el tribunal se perderá, y eso no te conviene.
 * Si quieres hacer una presentación 'pro', puedes incorporar figuras y tablas al final de la presentación a modo de anexo para mostrar en caso de que te sean útiles durante el turno de preguntas. Darás una excelente imagen ante el tribunal.
 
 
@@ -51,4 +54,4 @@
 - Utilizar poco contraste entre el fondo y la tipografía. Esto dificulta la lectura.
 - No seguir un hilo conductor claro que facilite la comprensión de lo expuesto.
 - Tocar demasiados temas. No introduzcas un concepto o término si posteriormente no lo vas a utilizar.
-- No presentar vocabulario básico para entender el trabajo expuesto.
+- No presentar el vocabulario básico para entender el trabajo expuesto.
