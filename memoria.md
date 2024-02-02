@@ -13,6 +13,7 @@ A continuación se dan unas sugerencias enfatizando aquellos aspectos que, por m
 ## Estructura
 - Recuerda la regla de las tres C's: Contexto, Contenido y Conclusiones. Primero aporta el contexto necesario para comprender tu mensaje, luego presenta tu mensaje y termina con las ideas principales que el lector debe quedarse. Aplícalo a todo trabajo académico (y no académico): anteproyecto, memoria, defensa o un correo electrónico a tu tutor.
 - La estructura típica de un TFM/TFG o tesis doctoral es la siguiente:
+  * Resumen.
   * Introducción.
   * Marco teórico / estado del arte.
   * Núcleo de la memoria (tres capítulos).
@@ -24,6 +25,7 @@ A continuación se dan unas sugerencias enfatizando aquellos aspectos que, por m
 - El índice debería de ser un árbol balanceado: no hagas un capítulo de 25 páginas, y otro de 2, o hagas una sección con una única subsección en su interior (¡horror! ¿para qué crear una subdivisión si no hay qué subdividir?).
 
 ## Contenido
+- El *resumen* debe aportar una idea clara de qué trabajo se ha realizado, no vale ni algo muy general ni algo muy concreto. Una estructura que no falla es primero explicar el problema que se aborda, justificar por qué ese problema es relevante. Luego introducir la solución que propones a ese problema, y justificar por qué tu solución es relevante.
 - La *introducción* debe presentar el problema que afrontas en tu trabajo, así como justificar por qué ese problema es interesante. 
   - El objetivo de tu trabajo debería quedar claro desde el principio, a veces puede ser conveniente no hacerlo así, pero de este modo juegas sobre seguro.
   - Describe tanto tu objetivo general como tus objetivos secundarios, de modo que la consecución de los objetivos secundarios implique conseguir también el objetivo principal.
